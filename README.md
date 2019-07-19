@@ -46,4 +46,3 @@ We seek to answer 3 main questions in this project:
 2. Do federal contractors w/ PAC donations receive more contract awards?
 3. Do federal contractors donate a larger share to Democrats than non-contractors?
 4. Do federal contractors make the same amount of campaign contributions as non-contractors?
-
