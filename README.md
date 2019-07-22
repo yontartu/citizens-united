@@ -1,12 +1,14 @@
 # Federal Contracts & Campaign Contributions Before & After Citizens United
 
-## Mod 3 Project @ The Flatiron School 
-
-## Team members: Joey Goodman and Phoebe Wong
+Mod 3 Project @ The Flatiron School 
+Team members: Joey Goodman and Phoebe Wong
 
 ## Executive summary:
 
 The goal of this project is to present preliminary findings on a unique data set we constructed that matches federal contractor data and campaign contribution data.
+
+![alt text](https://github.com/yontartu/citizens-united/blob/master/img/award_vs_pac_soft.gif) 
+
 
 ## Contents
 
